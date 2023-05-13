@@ -19,6 +19,8 @@ layout: default
 <img src="./assets/github-mark.png" alt="GitHub Icon" width="3.7%" height="3.7%" style="vertical-align: middle;">
 <a href="https://github.com/gm515" style="vertical-align: middle;">github.com/gm515</a>
 
+<a href="./cv/gerald_moore_cv.pdf" download>Download CV PDF</a>
+
 ## Profile
 
 As a highly analytical, computational, and motivated Data Scientist and Machine Learning Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in various areas, including computer vision, image analysis, registration, segmentation, time series analysis, working with large multi-terabyte datasets, Machine Learning (ML), Deep Learning (DL), and statistical data analysis.
