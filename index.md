@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<p style="text-align:center"><img src="./assets/email-icon.png" width="2.5%" height="2.5%"></p> gerald.moore.mail@gmail.com
+<p style="text-align:center"><img src="./assets/email-icon.png" width="3%" height="3%"></p> gerald.moore.mail@gmail.com
 
-<p style="text-align:center"><img src="./assets/phone-icon.png" width="2.5%" height="2.5%"></p> (+44) 7812 902143
+<p style="text-align:center"><img src="./assets/phone-icon.png" width="3%" height="3%"></p> (+44) 7812 902143
 
-<p style="text-align:center"><img src="./assets/linkedin-icon.png" width="2.5%" height="2.5%"></p> [linkedin.com/in/gerald-moore](https://linkedin.com/in/gerald-moore)
+<p style="text-align:center"><img src="./assets/linkedin-icon.png" width="3%" height="3%"></p> [linkedin.com/in/gerald-moore](https://linkedin.com/in/gerald-moore)
 
-<p style="text-align:center"><img src="./assets/github-mark.png" width="3%" height="3%"></p> [github.com/geraldmoore](https://github.com/geraldmoore)
+<p style="text-align:center"><img src="./assets/github-mark.png" width="4%" height="4%"></p> [github.com/geraldmoore](https://github.com/geraldmoore)
 
-<p style="text-align:center"><img src="./assets/github-mark.png" width="3%" height="3%"></p> [github.com/gm515](https://github.com/gm515)
+<p style="text-align:center"><img src="./assets/github-mark.png" width="4%" height="4%"></p> [github.com/gm515](https://github.com/gm515)
 
 ## Profile
 
