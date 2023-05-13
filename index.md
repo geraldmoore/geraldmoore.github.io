@@ -12,6 +12,11 @@ layout: default
 
 <p style="text-align:center"><img src="./assets/github-mark.png" width="4%" height="4%"></p> [github.com/gm515](https://github.com/gm515)
 
+<div>
+    <img src="./assets/github-mark.png" width="4%" height="4%" style="vertical-align: middle;">
+    <span style="vertical-align: middle;">[github.com/gm515](https://github.com/gm515)</span>
+</div>
+
 ## Profile
 
 As a highly analytical, computational, and motivated Data Scientist and Machine Learning Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in various areas, including computer vision, image analysis, registration, segmentation, time series analysis, working with large multi-terabyte datasets, Machine Learning (ML), Deep Learning (DL), and statistical data analysis.
