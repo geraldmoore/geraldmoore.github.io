@@ -7,6 +7,5 @@ linkedin: https://linkedin.com/in/gerald-moore
 github_one: https://github.com/geraldmoore
 github_two: https://github.com/gm515
 cv_download: /cv/gerald_moore_cv.pdf
-show_downloads: false
-google_analytics:
+show_contents: true
 remote_theme: pages-themes/minimal@v0.2.0
