@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Socials
+
 <img src="./assets/email-icon.png" alt="Email Icon" width="3%" height="3%" style="vertical-align: middle;">
 <a href="mailto:gerald.moore.mail@gmail.com" style="vertical-align: middle;">gerald.moore.mail@gmail.com</a>
 
