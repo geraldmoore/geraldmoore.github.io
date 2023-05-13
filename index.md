@@ -2,19 +2,15 @@
 layout: default
 ---
 
-<img src="./assets/email-icon.png" width="1.4%" height="1.4%"> gerald.moore.mail@gmail.com
+<img src="./assets/email-icon.png" width="2%" height="2%"> gerald.moore.mail@gmail.com
 
+<img src="./assets/phone-icon.png" width="2%" height="2%"> (+44) 7812 902143
 
-<img src="./assets/phone-icon.png" width="1.4%" height="1.4%"> (+44) 7812 902143
+<img src="./assets/linkedin-icon.png" width="2%" height="2%"> [linkedin.com/in/gerald-moore](https://linkedin.com/in/gerald-moore)
 
+<img src="./assets/github-mark.png" width="2.4%" height="2.4%"> [github.com/geraldmoore](https://github.com/geraldmoore)
 
-<img src="./assets/linkedin-icon.png" width="1.4%" height="1.4%"> [linkedin.com/in/gerald-moore](https://linkedin.com/in/gerald-moore)
-
-
-<img src="./assets/github-mark.png" width="2.0%" height="2.0%"> [github.com/geraldmoore](https://github.com/geraldmoore)
-
-
-<img src="./assets/github-mark.png" width="2.0%" height="2.0%"> [github.com/gm515](https://github.com/gm515)
+<img src="./assets/github-mark.png" width="2.4%" height="2.4%"> [github.com/gm515](https://github.com/gm515)
 
 ## Profile
 
@@ -44,21 +40,13 @@ Sole ownership of developing an end-to-end analysis pipeline of multi-terabyte i
 
 ## Education
 
-_2015 - 2016_
+_2015 - 2016_ \| MRes Neurotechnology \| [Imperial College London, UK](https://www.imperial.ac.uk/)
 
-MRes Neurotechnology \| [Imperial College London, UK](https://www.imperial.ac.uk/)
+_2011 - 2015_ \| MPhys in Physics and Astrophysics \| [University of Sussex, UK](https://www.sussex.ac.uk/)
 
-_2011 - 2015_
+_2009 - 2011_ \| A-levels including Mathematics, Physics and Computing \| [Furze Platt Sixth Form College, UK](https://www.furzeplatt.com/)
 
-MPhys in Physics and Astrophysics \| [University of Sussex, UK](https://www.sussex.ac.uk/)
-
-_2009 - 2011_
-
-A-levels including Mathematics, Physics and Computing \| [Furze Platt Sixth Form College, UK](https://www.furzeplatt.com/)
-
-_2007 - 2009_
-
-Thirteen GCSEs including Mathematics, Physics and Biology \| [Furze Platt Sixth Form College, UK](https://www.furzeplatt.com/)
+_2007 - 2009_ \| Thirteen GCSEs including Mathematics, Physics and Biology \| [Furze Platt Sixth Form College, UK](https://www.furzeplatt.com/)
 
 ## Technical Skills
 
