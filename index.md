@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="./assets/email-icon.png" width="2%" height="2%"> gerald.moore.mail@gmail.com
+<p style="text-align:center"><img src="./assets/email-icon.png" width="2%" height="2%"></p> gerald.moore.mail@gmail.com
 
 <img src="./assets/phone-icon.png" width="2%" height="2%"> (+44) 7812 902143
 

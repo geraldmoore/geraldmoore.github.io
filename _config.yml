@@ -1,6 +1,9 @@
 title: Dr Gerald Moore
 logo: /assets/gerald-headshot.png
-description: "Doctorate in Neurotechnology | Data Scientist | Machine Learning Scientist | Developer | Researcher \n New line here does it work?"
+description: |- 
+  Doctorate in Neurotechnology | Data Scientist | Machine Learning Scientist | Developer | Researcher
+  
+  New line here does it work?
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
