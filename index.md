@@ -8,9 +8,9 @@ layout: default
 
 <img src="./assets/linkedin-icon.png" width="3%" height="3%"> [linkedin.com/in/gerald-moore](https://linkedin.com/in/gerald-moore)
 
-<img src="./assets/github-mark.png" width="4%" height="4%"> [github.com/geraldmoore](https://github.com/geraldmoore)
+<img src="./assets/github-mark.png" width="3.7%" height="3.7%" style="vertical-align: middle;"> <a href="https://github.com/geraldmoore" style="vertical-align: middle;">github.com/geraldmoore</a>
 
-<img src="./assets/github-mark.png" width="4%" height="4%"> [github.com/gm515](https://github.com/gm515)
+<img src="./assets/github-mark.png" width="3.7%" height="3.7%" style="vertical-align: middle;"> <a href="https://github.com/gm515" style="vertical-align: middle;">github.com/gm515</a>
 
 ## Profile
 
