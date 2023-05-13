@@ -23,6 +23,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <p><img src="./assets/email-icon.png" alt="Email Icon" width="3%" height="3%" style="vertical-align: middle;">
+<a href="mailto:{{ site.email }}" style="vertical-align: middle;">{{ site.email }}</a></p>
+
         <p class="view"><a href="{{ site.cv_download }}">Download CV PDF</a></p>
 
         {% if site.github.is_project_page %}
