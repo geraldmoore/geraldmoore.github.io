@@ -2,38 +2,20 @@
 layout: default
 ---
 
-<img src="./assets/email-icon.png" width="3%" height="3%" style="vertical-align: middle;"> <a href="mailto:gerald.moore.mail@gmail.com" style="vertical-align: middle;">gerald.moore.mail@gmail.com</a>
+<img src="./assets/email-icon.png" alt="Email Icon" width="3%" height="3%" style="vertical-align: middle;">
+<a href="mailto:gerald.moore.mail@gmail.com" style="vertical-align: middle;">gerald.moore.mail@gmail.com</a>
 
-<img src="./assets/phone-icon.png" width="3%" height="3%" style="vertical-align: middle;"> (+44) 7812 902143
+<img src="./assets/phone-icon.png" alt="Phone Icon" width="3%" height="3%" style="vertical-align: middle;">
+(+44) 7812 902143
 
-<img src="./assets/email-icon.png" width="3%" height="3%" style="vertical-align: middle;"> <a href="https://linkedin.com/in/gerald-moore" style="vertical-align: middle;">linkedin.com/in/gerald-moore</a>
+<img src="./assets/linkedin-icon.png" alt="LinkedIn Icon" width="3%" height="3%" style="vertical-align: middle;">
+<a href="https://linkedin.com/in/gerald-moore" style="vertical-align: middle;">linkedin.com/in/gerald-moore</a>
 
-<img src="./assets/github-mark.png" width="3.7%" height="3.7%" style="vertical-align: middle;"> <a href="https://github.com/geraldmoore" style="vertical-align: middle;">github.com/geraldmoore</a>
+<img src="./assets/github-mark.png" alt="GitHub Icon" width="3.7%" height="3.7%" style="vertical-align: middle;">
+<a href="https://github.com/geraldmoore" style="vertical-align: middle;">github.com/geraldmoore</a>
 
-<img src="./assets/github-mark.png" width="3.7%" height="3.7%" style="vertical-align: middle;"> <a href="https://github.com/gm515" style="vertical-align: middle;">github.com/gm515</a>
-
-<ul class="contact-list">
-  <li>
-    <img src="./assets/email-icon.png" alt="Email Icon" width="3%" height="3%" style="vertical-align: middle;">
-    <a href="mailto:gerald.moore.mail@gmail.com" style="vertical-align: middle;">gerald.moore.mail@gmail.com</a>
-  </li>
-  <li>
-    <img src="./assets/phone-icon.png" alt="Phone Icon" width="3%" height="3%" style="vertical-align: middle;">
-    (+44) 7812 902143
-  </li>
-  <li>
-    <img src="./assets/linkedin-icon.png" alt="LinkedIn Icon" width="3%" height="3%" style="vertical-align: middle;">
-    <a href="https://linkedin.com/in/gerald-moore" style="vertical-align: middle;">linkedin.com/in/gerald-moore</a>
-  </li>
-  <li>
-    <img src="./assets/github-icon.png" alt="GitHub Icon" width="3.7%" height="3.7%" style="vertical-align: middle;">
-    <a href="https://github.com/geraldmoore" style="vertical-align: middle;">github.com/geraldmoore</a>
-  </li>
-  <li>
-    <img src="./assets/github-icon.png" alt="GitHub Icon" width="3.7%" height="3.7%" style="vertical-align: middle;">
-    <a href="https://github.com/gm515" style="vertical-align: middle;">github.com/gm515</a>
-  </li>
-</ul>
+<img src="./assets/github-mark.png" alt="GitHub Icon" width="3.7%" height="3.7%" style="vertical-align: middle;">
+<a href="https://github.com/gm515" style="vertical-align: middle;">github.com/gm515</a>
 
 ## Profile
 
