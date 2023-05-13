@@ -40,21 +40,13 @@ _2007 - 2009_ \| Thirteen GCSEs including Mathematics, Physics and Biology \| [F
 
 ## Technical Skills
 
-_Languages_
+_Languages_ \| Python, C++, JAVA, MATLAB
 
-Python, C++, JAVA, MATLAB
+_Libraries_ \| Tensorflow, Keras, PyTorch, Apache MXNet, Scikit-learn, Scipy, Numpy, Pandas, OpenCV, Rasterio, Plotly, Pydantic, Pytest
 
-_Libraries_
+_Databases_ \| STAC, MySQL, PostgreSQL
 
-Tensorflow, Keras, PyTorch, Apache MXNet, Scikit-learn, Scipy, Numpy, Pandas, OpenCV, Rasterio, Plotly, Pydantic, Pytest
-
-_Databases_
-
-STAC, MySQL, PostgreSQL
-
-_Software_
-
-Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blender, Adobe Suite
+_Software_ \| Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blender, Adobe Suite
 
 ## Publications
 

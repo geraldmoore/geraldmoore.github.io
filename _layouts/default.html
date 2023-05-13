@@ -11,6 +11,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+
+    <style>
+      header {
+        overflow-y: auto;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -28,9 +34,6 @@
         <h2>Socials</h2>
         <p><img src="./assets/email-icon.png" alt="Email Icon" width="6%" height="6%" style="vertical-align: middle;">
         <a href="mailto:{{ site.email }}" style="vertical-align: middle;">{{ site.email }}</a></p>
-
-        <p><img src="./assets/phone-icon.png" alt="Phone Icon" width="6%" height="6%" style="vertical-align: middle;">
-            {{ site.mobile }}</p>
 
         <p><img src="./assets/linkedin-icon.png" alt="LinkedIn Icon" width="6%" height="6%" style="vertical-align: middle;">
         <a href="{{ site.linkedin }}" style="vertical-align: middle;">linkedin.com/in/gerald-moore</a></p>
