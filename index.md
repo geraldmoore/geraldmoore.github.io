@@ -2,15 +2,19 @@
 layout: default
 ---
 
-![email](./assets/email-icon.png) gerald.moore.mail@gmail.com
+<img src="./assets/email-icon.png" width="1.4%" height="1.4%"> gerald.moore.mail@gmail.com
 
-![mobile](./assets/phone-icon.png) (+44) 7812 902143
 
-![linkedin](./assets/linkedin-icon.png) [linkedin.com/in/gerald-moore](https://linkedin.com/in/gerald-moore)
+<img src="./assets/phone-icon.png" width="1.4%" height="1.4%"> (+44) 7812 902143
 
-![github1](./assets/github-mark.png) [github.com/geraldmoore](https://github.com/geraldmoore)
 
-![github2](./assets/github-mark.png) [github.com/gm515](https://github.com/gm515)
+<img src="./assets/linkedin-icon.png" width="1.4%" height="1.4%"> [linkedin.com/in/gerald-moore](https://linkedin.com/in/gerald-moore)
+
+
+<img src="./assets/github-mark.png" width="2.0%" height="2.0%"> [github.com/geraldmoore](https://github.com/geraldmoore)
+
+
+<img src="./assets/github-mark.png" width="2.0%" height="2.0%"> [github.com/gm515](https://github.com/gm515)
 
 ## Profile
 
