@@ -14,7 +14,7 @@
 
     <style>
       header {
-        height: 87vh; /* Set a fixed height */
+        height: -100px; /* Set a fixed height */
         overflow-y: auto; /* Enable vertical scrolling */
       }
     </style>
@@ -46,18 +46,20 @@
         <p><img src="./assets/github-mark.png" alt="GitHub Icon" width="7%" height="7%" style="vertical-align: middle;">
         <a href="{{ site.github_two }}" style="vertical-align: middle;">github.com/gm515</a> [academic]</p>
 
-
         {% if site.show_contents %}
-        <h2>Contents</h2>
-        <ul>
-          <li><a href="#profile">Profile</a></li>
-          <li><a href="#experience">Experience</a></li>
-          <li><a href="#education">Education</a></li>
-          <li><a href="#technical-skills">Technical Skills</a></li>
-          <li><a href="#publications">Publications</a></li>
-          <li><a href="#conferences--workshops">Conferences &amp; Workshops</a></li>
-          <li><a href="#teaching--events">Teaching &amp; Events</a></li>
-        </ul>
+        <div>
+          <h2>Contents</h2>
+          <ul>
+            <li><a href="#profile">Profile</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#technical-skills">Technical Skills</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#conferences--workshops">Conferences &amp; Workshops</a></li>
+            <li><a href="#teaching--events">Teaching &amp; Events</a></li>
+          </ul>
+        </div>
+
         {% endif %}
 
       </header>
