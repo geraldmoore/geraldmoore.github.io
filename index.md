@@ -14,7 +14,7 @@ _Dec 2022 - present_
 
 **Senior Machine Learning Scientist** \| **_[Agreena, London, UK (formerly Hummingbird Technologies, London, UK)](https://agreena.com/)_**
 
-Encompassing data science, ML engineering and software engineering in the remote sensing and verification field, using satellite and drone imagery inputs. Remote detection of agricultural land (FracTAL ResUNet) and crops (Mask R-CNN), time series classification and prediction with custom or adapted architectures (1D CNN, LSTM, CatBoost, XGBoost, Transformers) and scene classification through transfer learning or custom architectures (2D CNN, MobileNet, EfficientNet). Scaling analysis pipelines from research and development stage, to deployment in production environments. Individually responsible for developing a Python wrapper software developer kit to standardise and improve efficiency in data management with STAC. Formulating unit, integration and end-to-end testing of production code-bases.
+Encompassing data science, ML engineering and software engineering in the remote sensing and verification field, using satellite and drone imagery inputs. Remote detection of agricultural land (FracTAL ResUNet) and crops (Mask R-CNN), time series classification and prediction with custom or adapted architectures (1D CNN, LSTM, CatBoost, XGBoost, Transformers) and scene classification through transfer learning or custom architectures (2D CNN, MobileNet, EfficientNet). Scaling analysis pipelines from research and development stage, to deployment in production environments. Individually responsible for developing a Python wrapper software developer kit to standardise and improve efficiency in data management with STAC. Formulating unit, integration and end-to-end testing of production code-bases. Writing research publications.
 
 _Jan 2021 - Dec 2022_
 
@@ -52,7 +52,11 @@ _Software_ \| Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blende
 
 _2023_
 
-**Synchronous and asynchronous GABA release in the thalamus helps solve a fuzzy logic problem** \| Stephen Brickley, Deyl Djama, Florian Zirpel, Zhiwen Ye, Gerald Moore, Charmaine Chue, Christopher Edge, Polona Jager, Alessio Delogu. Nature Neuroscience [submitted].
+**Detecting cover crop activity at scale using fusion of multiple satellite sources** \| Gerald Moore, Edward Dowling, Gabor Szakacs, Daniel Szponar. Remote Sensing [to be submitted].
+
+_2023_
+
+**The type of inhibition provided by thalamic interneurons alters the input selectivity of thalamocortical neurons** \| Stephen Brickley, Deyl Djama, Florian Zirpel, Zhiwen Ye, Gerald Moore, Charmaine Chue, Christopher Edge, Polona Jager, Alessio Delogu. Current Research in Neurobiology [in review].
 
 _2021_
 
