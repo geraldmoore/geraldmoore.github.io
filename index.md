@@ -4,9 +4,9 @@ layout: default
 
 ## Profile
 
-As a highly analytical, computational, and motivated Data Scientist (DS) and Machine Learning (ML) Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in various areas, including computer vision, registration, segmentation, time series analysis, working with large multi-terabyte datasets, ML, pipeline-scaling, and statistical data analysis.
+As a highly analytical, computational, and motivated Data Scientist (DS) and Machine Learning (ML) Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in areas including computer vision, registration, segmentation, time series analysis, working with large multi-terabyte datasets, pipeline-scaling, and statistical data analysis.
 
-I am passionate about exploring new ideas and expanding my knowledge in an environment that encourages learning and discovery. I strongly value the entire scope of Data Science, from exploratory data analysis and visualisation to experimentation and scaling pipelines from research to production.
+I am passionate about exploring innovative ideas and expanding my knowledge in an environment that encourages learning and discovery. I strongly value the entire scope of Data Science, from exploratory data analysis and visualisation to experimentation and scaling pipelines from research to production. I am looking for an opportunity to apply my skills and knowledge to solve complex problems and contribute to the development of cutting-edge and impactful technologies.
 
 ## Experience
 
@@ -14,7 +14,7 @@ _Dec 2022 - present_
 
 **Senior Machine Learning Scientist** \| **_[Agreena, London, UK (formerly Hummingbird Technologies, London, UK)](https://agreena.com/)_**
 
-Encompassing DS, ML engineering and software engineering using remote sensing for verification as part of a soil carbon program. Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), and global scale agricultural event mapping (LSTM, Transformers). Scaling entire pipelines from research to production environments with VertexAI, Airflow and Kubernetes, as well as formulation of unit, integration and end-to-end testing across numerous code-bases. Individually responsible for developing a Python SDK to improve data management workflows with STAC catalogues for the DS team. Dimensionality reduction through PCA and manifold-learning techniques, and detecting data drift through PCA. Implementing K-fold cross-validation training. Writing research publications, presenting at conferences. Facilitating communication between DS and internal stakeholders to effectively manage project requirements and expectations. Responsible for hiring. Known within the team as the go-to expert for addressing complex technical challenges and providing unique solutions and insights.
+Encompassing DS, ML engineering and software engineering using remote sensing for verification as part of a soil carbon program. Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), and global scale agricultural event mapping (LSTM, Transformers). Scaling entire pipelines from research to production environments with VertexAI, Airflow and Kubernetes, as well as formulation of unit, integration and end-to-end testing across all code-bases. Individually responsible for developing a Python SDK to improve data workflows with STAC catalogues, driving efficiency for the DS team. Utilising dimensionality reduction through PCA and manifold-learning techniques, and detecting/monitoring data drift. Implementing K-fold cross-validation training to optimise train/val/test dataset splits. Addressing severe dataset size limitations through ensemble learning, auxiliary task learning and transfer learning from a primary to secondary task. Writing research publications, presenting at conferences. Facilitating communication between DS and internal stakeholders to effectively manage project requirements and expectations. Responsible for hiring. Known within the team as the go-to trustee for addressing complex technical challenges and providing unique solutions and insights.
 
 _Jan 2021 - Dec 2022_
 
@@ -50,13 +50,17 @@ _Software_ \| Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blende
 
 ## Publications
 
-_2023_
+_2024_
+
+**Tracking tillage practices across Europe using multi-source Earth observations & machine learning** \| Nicholas Synes, Aoife Whelan, Edward Dowling, Francois Lemarchand, Khushboo Jain, Ben Smith, Gerald Moore, Peter Kongstad, Blayne Lees, Vincent Cornwell, Nathan Torbick. IEEE IGARSS.
+
+_2024_
 
 **Detecting cover crop activity at scale using fusion of multiple satellite sources** \| Gerald Moore, Edward Dowling, Gabor Szakacs, Daniel Szponar. Remote Sensing [to be submitted].
 
 _2023_
 
-**The type of inhibition provided by thalamic interneurons alters the input selectivity of thalamocortical neurons** \| Stephen Brickley, Deyl Djama, Florian Zirpel, Zhiwen Ye, Gerald Moore, Charmaine Chue, Christopher Edge, Polona Jager, Alessio Delogu. Current Research in Neurobiology [in review].
+**The type of inhibition provided by thalamic interneurons alters the input selectivity of thalamocortical neurons** \| Stephen Brickley, Deyl Djama, Florian Zirpel, Zhiwen Ye, Gerald Moore, Charmaine Chue, Christopher Edge, Polona Jager, Alessio Delogu. bioRxiv. [10.1101/2024.01.17.576001](https://doi.org/10.1101/2024.01.17.576001).
 
 _2021_
 
