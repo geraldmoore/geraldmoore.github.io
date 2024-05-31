@@ -52,15 +52,15 @@ _Software_ \| Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blende
 
 _2024_
 
+**Detecting cover crop activity at scale using fusion of multiple satellite sources** \| Gerald Moore, Edward Dowling, Gabor Szakacs, Daniel Szponar. Remote Sensing [to be submitted].
+
+_2024_
+
 **Tracking tillage practices across Europe using multi-source Earth observations & machine learning** \| Nicholas Synes, Aoife Whelan, Edward Dowling, Francois Lemarchand, Khushboo Jain, Ben Smith, Gerald Moore, Peter Kongstad, Blayne Lees, Vincent Cornwell, Nathan Torbick. IEEE IGARSS.
 
 _2024_
 
-**Detecting cover crop activity at scale using fusion of multiple satellite sources** \| Gerald Moore, Edward Dowling, Gabor Szakacs, Daniel Szponar. Remote Sensing [to be submitted].
-
-_2023_
-
-**The type of inhibition provided by thalamic interneurons alters the input selectivity of thalamocortical neurons** \| Stephen Brickley, Deyl Djama, Florian Zirpel, Zhiwen Ye, Gerald Moore, Charmaine Chue, Christopher Edge, Polona Jager, Alessio Delogu. bioRxiv. [10.1101/2024.01.17.576001](https://doi.org/10.1101/2024.01.17.576001).
+**The type of inhibition provided by thalamic interneurons alters the input selectivity of thalamocortical neurons** \| Stephen Brickley, Deyl Djama, Florian Zirpel, Zhiwen Ye, Gerald Moore, Charmaine Chue, Christopher Edge, Polona Jager, Alessio Delogu. bioRxiv. [10.1016/j.crneur.2024.100130](https://doi.org/10.1016/j.crneur.2024.100130).
 
 _2021_
 
