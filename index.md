@@ -4,9 +4,9 @@ layout: default
 
 ## Profile
 
-As a highly analytical, computational, and motivated Data Scientist (DS) and Machine Learning (ML) Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in areas including computer vision, registration, segmentation, time series analysis, working with large multi-terabyte datasets, pipeline-scaling, and statistical data analysis.
+As a highly analytical, computational, and motivated Data Scientist (DS) and Machine Learning (ML) Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in areas including computer vision, registration, segmentation, time-series analysis, working with large multi-terabyte datasets, statistical data analysis and pipeline-scaling from research to production environments.
 
-I am passionate about exploring innovative ideas and expanding my knowledge in an environment that encourages learning and discovery. I strongly value the entire scope of Data Science, from exploratory data analysis and visualisation to experimentation and scaling pipelines from research to production. I am looking for an opportunity to apply my skills and knowledge to solve complex problems and contribute to the development of cutting-edge and impactful technologies.
+I am passionate about exploring innovative ideas and expanding my knowledge in an environment that encourages learning and discovery. I strongly value the entire scope of Data Science, from exploratory data analysis and visualisation to experimentation and scaling pipelines. I am looking for an opportunity to apply my skills and knowledge to solve complex problems and contribute to the development of cutting-edge and impactful technologies.
 
 ## Experience
 
@@ -14,19 +14,37 @@ _Dec 2022 - present_
 
 **Senior Machine Learning Scientist** \| **_[Agreena, London, UK](https://agreena.com/)_**
 
-Encompassing DS, ML engineering and software engineering using remote sensing for verification as part of a soil carbon program. Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), and global scale agricultural event mapping (LSTM, Transformers). Scaling entire pipelines from research to production environments with VertexAI, Airflow and Kubernetes, as well as formulation of unit, integration and end-to-end testing across all code-bases. Individually responsible for developing a Python SDK to improve data workflows with STAC catalogues, driving efficiency for the DS team. Utilising dimensionality reduction through PCA and manifold-learning techniques, and detecting/monitoring data drift. Implementing K-fold cross-validation training to optimise train/val/test dataset splits. Addressing severe dataset size limitations through ensemble learning, auxiliary task learning and transfer learning from a primary to secondary task. Writing research publications, presenting at conferences. Facilitating communication between DS and internal stakeholders to effectively manage project requirements and expectations. Responsible for hiring. Known within the team as the go-to trustee for addressing complex technical challenges and providing unique solutions and insights.
+- Encompassing DS, ML engineering and software engineering using remote sensing for verification as part of a soil carbon program.
+- Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), and global scale agricultural event mapping (LSTM, Transformers).
+- Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also driving scientific research within the DS team.
+- Scaling end-to-end pipelines from research to production environments with VertexAI, Airflow and Kubernetes whilst managing KPIs for accuracy, throughput, resource management and stake-holder satisfaction.
+- Created standardisation for ML based projects through HuggingFace, cookie-cutter and Kedro frameworks.
+- Formulation of unit, integration and end-to-end testing frameworks across code-bases.
+- Individually responsible for developing a Python SDK to improve data workflows with STAC catalogues, driving significant efficiency and standardisation for the DS and Engineering teams.
+- Utilising PCA and manifold-learning techniques to detect and monitor data drift.
+- Implementing K-fold cross-validation training to optimise train/val/test dataset splits.
+- Handling severe dataset size limitations through ensemble learning, auxiliary task learning and transfer learning from a primary to secondary task.
+- Writing research publications, presenting at conferences, presenting technical topics to external stakeholders and client prospects.
+- Responsible for hiring.
+- Known within the team as the go-to trustee for addressing complex technical challenges and providing unique solutions and insights.
+
+
 
 _Jan 2021 - Dec 2022_
 
 **Data Scientist** \| _**[Hummingbird Technologies, London, UK](https://hummingbirdtech.com/)**_
 
-Nurturing key client partnerships by researching and developing new customer driven DL solutions, such as an instance segmentation approach for high resolution object detection in agricultural fields, and an attention based semantic segmentation model for delineating agricultural parcels at large scale. Technical interviewing for new candidates, conducting grant funded research and creating comprehensive documentation for research award programs and conference presentations.
+- Nurturing key client partnerships by researching and developing new customer driven solutions, such as an instance segmentation approach for high resolution object detection in agricultural fields, and an attention based semantic segmentation model for delineating agricultural parcels at large scale.
+- Conducting grant funded research and creating comprehensive documentation for research award programs and conference presentations.
+- Technical interviewing for new candidates.
 
 _Oct 2016 - Jan 2021_
 
 **Ph.D Neurotechnology** \| _**[Imperial College London, London, UK](https://www.imperial.ac.uk/)**_
 
-Sole ownership of developing an end-to-end analysis pipeline of multi-terabyte image data, including CNN classification through custom or adapted architectures (VGG Net, Google Inception), semantic segmentation (UNet, UNet++), image registration (Elastix, aMAP, ANTs) and dashboard visualisations (Ploty, Dash, Heroki). Applied the pipeline to investigate neuronal connectivity in the visual thalamic and pre-frontal cortex pathways, as well as studying structural changes under Alzheimer's and Huntington's pathology. Research was presented through publications, conferences, and workshops.
+- Sole ownership of developing an end-to-end analysis pipeline of multi-terabyte image data, including CNN classification through custom or adapted architectures (VGG Net, Google Inception), semantic segmentation (UNet, UNet++), image registration (Elastix, aMAP, ANTs) and dashboard visualisations (Ploty, Dash, Heroki).
+- Applied the pipeline to investigate neuronal connectivity in the visual thalamic and pre-frontal cortex pathways, as well as studying structural changes under Alzheimer's and Huntington's pathology.
+- Presenting research through publications, conferences, and workshops.
 
 ## Education
 
@@ -42,11 +60,11 @@ _2007 - 2009_ \| Thirteen GCSEs including Mathematics, Physics and Biology \| [F
 
 _Languages_ \| Python, C++, JAVA, MATLAB
 
-_Libraries_ \| Tensorflow, Keras, PyTorch, Apache MXNet, Scikit-learn, Scipy, Numpy, Pandas, OpenCV, Rasterio, Plotly, Pydantic, Pytest
+_Libraries_ \| Tensorflow, Keras, PyTorch, Apache MXNet, Scikit-learn, Scipy, Numpy, Pandas, OpenCV, Rasterio, Plotly, Pydantic, Pytest, Kedro
 
 _Databases_ \| STAC, MySQL, PostgreSQL
 
-_Software_ \| Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blender, Adobe Suite
+_Software_ \| HuggingFace, Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blender, Adobe Suite
 
 ## Publications
 
