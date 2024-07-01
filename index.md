@@ -14,21 +14,17 @@ _Dec 2022 - present_
 
 **Senior Machine Learning Scientist** \| **_[Agreena, London, UK](https://agreena.com/)_**
 
-- Encompassing DS, ML engineering and software engineering using remote sensing for verification as part of a soil carbon program.
+- Encompassing DS, ML engineering and software engineering using remote sensing for verification for a soil carbon program.
 - Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), and global scale agricultural event mapping (LSTM, Transformers).
-- Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also driving scientific research within the DS team.
+- Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also driving state-of-the-art scientific research within the team. 
 - Scaling end-to-end pipelines from research to production environments with VertexAI, Airflow and Kubernetes whilst managing KPIs for accuracy, throughput, resource management and stake-holder satisfaction.
-- Created standardisation for ML based projects through HuggingFace, cookie-cutter and Kedro frameworks.
+- Sole initiative to drive standardisation for ML based projects through HuggingFace, cookie-cutter and Kedro frameworks.
 - Formulation of unit, integration and end-to-end testing frameworks across code-bases.
-- Individually responsible for developing a Python SDK to improve data workflows with STAC catalogues, driving significant efficiency and standardisation for the DS and Engineering teams.
-- Utilising PCA and manifold-learning techniques to detect and monitor data drift.
-- Implementing K-fold cross-validation training to optimise train/val/test dataset splits.
-- Handling severe dataset size limitations through ensemble learning, auxiliary task learning and transfer learning from a primary to secondary task.
+- Sole responsiblity for developing a Python SDK to improve data workflows with STAC catalogues, driving significant efficiency and standardisation across the DS and Engineering teams.
+- Utilising PCA and manifold-learning techniques to detect and monitor data drift and implementing K-fold cross-validation training to optimise train/val/test dataset splits.
+- Addressing severe dataset size limitations through ensemble learning, auxiliary task learning and transfer learning from a primary to secondary task.
 - Writing research publications, presenting at conferences, presenting technical topics to external stakeholders and client prospects.
-- Responsible for hiring.
-- Known within the team as the go-to trustee for addressing complex technical challenges and providing unique solutions and insights.
-
-
+- Responsible for hiring, and known within the team as the go-to trustee for addressing complex technical challenges and providing unique solutions and insights.
 
 _Jan 2021 - Dec 2022_
 
@@ -45,6 +41,13 @@ _Oct 2016 - Jan 2021_
 - Sole ownership of developing an end-to-end analysis pipeline of multi-terabyte image data, including CNN classification through custom or adapted architectures (VGG Net, Google Inception), semantic segmentation (UNet, UNet++), image registration (Elastix, aMAP, ANTs) and dashboard visualisations (Ploty, Dash, Heroki).
 - Applied the pipeline to investigate neuronal connectivity in the visual thalamic and pre-frontal cortex pathways, as well as studying structural changes under Alzheimer's and Huntington's pathology.
 - Presenting research through publications, conferences, and workshops.
+
+## Projects
+
+[**BinOcular**](https://github.com/geraldmoore/binocular)
+
+- Self driven development of a Python package that clusters camera photographs based on feature similarity and temporal thresholding.
+- Uses a pre-trained efficientnet model to compress imagery into a latent feature space, and subsequently uses a cosine-similarity metric and temporal thresholding to group images into \textit{similar} clusters based on shared features within images.
 
 ## Education
 
