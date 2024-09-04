@@ -15,8 +15,8 @@ _Dec 2022 - present_
 **Senior Machine Learning Scientist** \| **_[Agreena, London, UK](https://agreena.com/)_**
 
 - Encompassing DS, ML engineering and software engineering using remote sensing for verification for a soil carbon program.
-- Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), and global scale agricultural event mapping (LSTM, Transformers).
-- Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also driving state-of-the-art scientific research within the team. 
+- Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), global scale agricultural event mapping (LSTM, Transformers), and image description reports (LLMs).
+- Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also driving state-of-the-art scientific research within the team.
 - Scaling end-to-end pipelines from research to production environments with VertexAI, Airflow and Kubernetes whilst managing KPIs for accuracy, throughput, resource management and stake-holder satisfaction.
 - Sole initiative to drive standardisation for ML based projects through HuggingFace, cookie-cutter and Kedro frameworks.
 - Formulation of unit, integration and end-to-end testing frameworks across code-bases.
