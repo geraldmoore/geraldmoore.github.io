@@ -63,7 +63,7 @@ _2007 - 2009_ \| Thirteen GCSEs including Mathematics, Physics and Biology \| [F
 
 _Languages_ \| Python, C++, JAVA, MATLAB
 
-_Libraries_ \| Tensorflow, Keras, PyTorch, Apache MXNet, Scikit-learn, Scipy, Numpy, Pandas, OpenCV, Rasterio, Plotly, Pydantic, Pytest, Kedro
+_Libraries_ \| Tensorflow, Keras, PyTorch, Ray, Apache MXNet, Scikit-learn, Scipy, Numpy, Pandas, OpenCV, Rasterio, Plotly, Pydantic, Pytest, Kedro
 
 _Databases_ \| STAC, MySQL, PostgreSQL
 
