@@ -73,6 +73,10 @@ _Software_ \| HuggingFace, Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ
 
 _2024_
 
+**Hierarchical Bayesian modeling of multi-region brain cell count data** \| Sydney Dimmock, Benjamin MS Exley, Gerald Moore, Lucy Menage, Alessio Delogu, Simon R Schultz, E Clea Warburton, Conor Houghton, Cian O'Donnell. eLife Neuroscience. [10.7554/eLife.102391.1](https://doi.org/10.7554/eLife.102391.1).
+
+_2024_
+
 **Detecting cover crop activity at scale using fusion of multiple satellite sources** \| Gerald Moore, Edward Dowling, Gabor Szakacs, Daniel Szponar. Remote Sensing [to be submitted].
 
 _2024_
