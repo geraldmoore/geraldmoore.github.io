@@ -20,7 +20,7 @@ _Dec 2022 - present_
 - Scaling end-to-end pipelines from research to production environments with AnyScale, VertexAI, Airflow and Kubernetes whilst managing KPIs for accuracy, throughput, resource management and stake-holder satisfaction.
 - Sole initiative to drive standardisation for ML based projects through HuggingFace, cookie-cutter and Kedro frameworks.
 - Formulation of unit, integration and end-to-end testing frameworks across code-bases.
-- Sole responsiblity for developing a Python SDK to improve data workflows with STAC catalogues, driving significant efficiency and standardisation across the DS and Engineering teams.
+- Sole responsiblity for developing a Python SDK and a data ingestion service, driving significant efficiency and standardisation across the DS and Engineering teams for accessing STAC catalogues and ingesting data through APIs.
 - Utilising PCA and manifold-learning techniques to detect and monitor data drift and implementing K-fold cross-validation training to optimise train/val/test dataset splits.
 - Addressing severe dataset size limitations through ensemble learning, auxiliary task learning and transfer learning from a primary to secondary task.
 - Writing research publications, presenting at conferences, presenting technical topics to external stakeholders and client prospects.
