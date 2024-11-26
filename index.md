@@ -15,9 +15,9 @@ _Dec 2022 - present_
 **Senior Machine Learning Scientist** \| **_[Agreena, London, UK](https://agreena.com/)_**
 
 - Encompassing DS, ML engineering and software engineering using remote sensing for verification for a soil carbon program.
-- Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), global scale agricultural event mapping (LSTM, Transformers), and image description reports (LLMs).
-- Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also driving state-of-the-art scientific research within the team.
-- Scaling end-to-end pipelines from research to production environments with VertexAI, Airflow and Kubernetes whilst managing KPIs for accuracy, throughput, resource management and stake-holder satisfaction.
+- Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), global scale agricultural event mapping (LSTM, Transformers), and image description reports (VLM).
+- Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also driving state-of-the-art scientific research and new tooling adoption within the team
+- Scaling end-to-end pipelines from research to production environments with AnyScale, VertexAI, Airflow and Kubernetes whilst managing KPIs for accuracy, throughput, resource management and stake-holder satisfaction.
 - Sole initiative to drive standardisation for ML based projects through HuggingFace, cookie-cutter and Kedro frameworks.
 - Formulation of unit, integration and end-to-end testing frameworks across code-bases.
 - Sole responsiblity for developing a Python SDK to improve data workflows with STAC catalogues, driving significant efficiency and standardisation across the DS and Engineering teams.
@@ -67,7 +67,7 @@ _Libraries_ \| Tensorflow, Keras, PyTorch, Ray, Apache MXNet, Scikit-learn, Scip
 
 _Databases_ \| STAC, MySQL, PostgreSQL
 
-_Software_ \| HuggingFace, Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blender, Adobe Suite
+_Software_ \| AnyScale, Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blender, Adobe Suite
 
 ## Publications
 
