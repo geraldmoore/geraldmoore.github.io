@@ -16,7 +16,7 @@ _Dec 2022 - present_
 
 - Encompassing DS, ML engineering and software engineering using remote sensing for verification for a soil carbon program.
 - Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), global scale agricultural event mapping (LSTM, Transformers), and image description reports (VLM).
-- Spearheaded the development of innovative products, including image report generation in combination with YAML-formatted multi-task classification for field event verification from mobile imagery (fine-tuning PaliGemma and LLaVA VLMs) and creating a targeted ground truth data collection approach to enhance internal model performance using a multi-task classifier for Google Street View imagery.
+- Spearheaded the development of innovative products, including image report generation in combination with structured-formatted multi-task classification for field event verification from mobile imagery (fine-tuning PaliGemma, LLaVA and Gemma 3 LLMs) and creating a targeted ground truth data collection approach to enhance internal model performance using a multi-task classifier for Google Street View imagery.
 - Scaled research-to-production pipelines using tools like Ray (including distributed training and inference), FastAPI, AnyScale, VertexAI, Airflow and Kubernetes, whilst managing KPIs for accuracy, throughput, resource management and stake-holder satisfaction.
 - Earned recognition from senior leadership, including the CEO, for consistently driving value and showcasing pivotal results, earning myself praise from leadership that I had significant contribution to the company and its direction.
 - Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also pushing state-of-the-art scientific research and new tooling adoption within the team. - Sole initiative to drive standardisation for ML based projects through HuggingFace, cookie-cutter and Kedro frameworks.
@@ -48,7 +48,12 @@ _Oct 2016 - Jan 2021_
 [**BinOcular**](https://github.com/geraldmoore/binocular)
 
 - Self driven development of a Python package that clusters camera photographs based on feature similarity and temporal thresholding.
-- Uses a pre-trained efficientnet model to compress imagery into a latent feature space, and subsequently uses a cosine-similarity metric and temporal thresholding to group images into \textit{similar} clusters based on shared features within images.
+- Uses a pre-trained efficientnet model to compress imagery into a latent feature space, and subsequently uses a cosine-similarity metric and temporal thresholding to group images into _similar_ clusters based on shared features within images.
+
+[**Kern**]
+
+- A custom personal assitant using the Pydantic AI agentic framework. 
+- Uses custom function tools to add functionality such as natural-language text to SQL for database querying, English/Italian tutoring, and general purpose AI chatbot.
 
 ## Education
 
