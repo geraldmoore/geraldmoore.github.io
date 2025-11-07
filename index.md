@@ -14,18 +14,19 @@ _Dec 2022 - present_
 
 **Senior Machine Learning Scientist** \| **_[Agreena, London, UK](https://agreena.com/)_**
 
-- Encompassing DS, ML engineering and software engineering using remote sensing for verification for a soil carbon program.
-- Technical senior lead for numerous projects; remote detection of agricultural land (FracTAL ResUNet), remote detection and analysis of individual crops (Mask R-CNN), time-series agricultural event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene quality classification (2D CNN, MobileNet, EfficientNet), global scale agricultural event mapping (LSTM, Transformers), and image description reports (VLM).
-- Spearheaded the development of innovative products, including image report generation in combination with structured-formatted multi-task classification for field event verification from mobile imagery (fine-tuning PaliGemma, LLaVA and Gemma 3 LLMs) and creating a targeted ground truth data collection approach to enhance internal model performance using a multi-task classifier for Google Street View imagery.
-- Scaled research-to-production pipelines using tools like Ray (including distributed training and inference), FastAPI, AnyScale, VertexAI, Airflow and Kubernetes, whilst managing KPIs for accuracy, throughput, resource management and stake-holder satisfaction.
-- Earned recognition from senior leadership, including the CEO, for consistently driving value and showcasing pivotal results, earning myself praise from leadership that I had significant contribution to the company and its direction.
-- Responsible for project and team planning to hit KPI deliverables for internal and external stakeholders whilst also pushing state-of-the-art scientific research and new tooling adoption within the team. - Sole initiative to drive standardisation for ML based projects through HuggingFace, cookie-cutter and Kedro frameworks.
-- Formulation of unit, integration and end-to-end testing frameworks across code-bases.
-- Sole responsiblity for developing a Python SDK and a data ingestion service, driving significant efficiency and standardisation across the DS and Engineering teams for accessing STAC catalogues and ingesting data through APIs.
-- Utilising PCA and manifold-learning techniques to detect and monitor data drift and implementing K-fold cross-validation training to optimise train/val/test dataset splits.
-- Addressing severe dataset size limitations through ensemble learning, auxiliary task learning and transfer learning from a primary to secondary task.
-- Writing research publications, presenting at conferences, presenting technical topics to external stakeholders and client prospects.
-- Responsible for hiring, and known within the team as the go-to trustee for addressing complex technical challenges and providing unique solutions and insights.
+- Senior technical lead for DS, ML engineering and software engineering using remote sensing for verification in a soil carbon program.
+- Led technical development across numerous projects: agricultural land detection (FracTAL ResUNet), crop detection and analysis (Mask R-CNN), time-series event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene classification (2D CNN, MobileNet, EfficientNet), global-scale event mapping (LSTM, Transformers), image reports (VLM), causal ML analysis (Causal Forest) and agentic workflows (Pydantic AI, LangChain/Graph, FastMCP).
+- Developed image report generation with multi-task classification for field event verification (fine-tuning PaliGemma, LLaVA, Gemma 3) and ground truth data collection using multi-task classifiers on Google Street View imagery.
+- Built user-facing agentic AI chatbot leveraging custom MCPs for data-driven insights.
+- Scaled research-to-production pipelines using Ray, FastAPI, AnyScale, VertexAI, Airflow and Kubernetes, managing KPIs for accuracy, throughput, resource utilisation and stakeholder satisfaction.
+- Recognised by CEO and senior leadership for driving value and delivering results with significant contribution to company direction.
+- Led project planning and team coordination to meet KPI deliverables whilst advancing state-of-the-art research and tooling adoption.
+- Drove ML project standardisation through cookie-cutter, Kedro and HuggingFace frameworks and established comprehensive testing frameworks across code-bases.
+- Developed Python SDK and data ingestion service for STAC catalogues and API access, driving efficiency across DS and Engineering teams.
+- Implemented PCA and manifold-learning for data drift detection and K-fold cross-validation for dataset split optimisation.
+- Addressed dataset limitations through ensemble learning, auxiliary task learning and transfer learning.
+- Authored publications, presented at conferences and delivered technical presentations to stakeholders and prospects.
+- Led hiring and served as go-to-trustee within the team to help address complex challenges.
 
 _Jan 2021 - Dec 2022_
 
@@ -69,7 +70,7 @@ _2007 - 2009_ \| Thirteen GCSEs including Mathematics, Physics and Biology \| [F
 
 _Languages_ \| Python, C++, JAVA, MATLAB
 
-_Libraries_ \| Tensorflow, Keras, PyTorch, Ray, Apache MXNet, Scikit-learn, Scipy, Numpy, Pandas, OpenCV, Rasterio, Plotly, Pydantic, Pytest, Kedro
+_Libraries_ \| PyTorch, Tensorflow, Keras, Ray, Scikit-learn, Scipy, OpenCV, Pydantic, Pydantic AI, LangChain/Graph, Pytest
 
 _Databases_ \| STAC, MySQL, PostgreSQL
 
@@ -77,9 +78,13 @@ _Software_ \| AnyScale, Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fi
 
 ## Publications
 
-_2024_
+_2025_
 
-**Hierarchical Bayesian modeling of multi-region brain cell count data** \| Sydney Dimmock, Benjamin MS Exley, Gerald Moore, Lucy Menage, Alessio Delogu, Simon R Schultz, E Clea Warburton, Conor Houghton, Cian O'Donnell. eLife Neuroscience. [10.7554/eLife.102391.1](https://doi.org/10.7554/eLife.102391.1).
+**Longitudinal testing of exploratory behaviour in mice reveals stable cognitive traits across the adult lifespan** \| Rushdie Abuhamdah, Gerald Moore, Deyl Djama, Florian Zirpel, Chris Edge, Abdel Ennaceur, Paul Chazot, Diana Cash, Eugene Kim, Anthony Vernon, Paul Chadderton, Stephen Brickley. Aging Cell (In Production).
+
+_2025_
+
+**Hierarchical Bayesian modeling of multi-region brain cell count data** \| Sydney Dimmock, Benjamin MS Exley, Gerald Moore, Lucy Menage, Alessio Delogu, Simon R Schultz, E Clea Warburton, Conor Houghton, Cian O’Donnell. eLife Neuroscience. [10.7554/eLife.102391.1](https://doi.org/10.7554/eLife.102391.2).
 
 _2024_
 

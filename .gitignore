@@ -1,3 +1,6 @@
 # Latex files
 cv/*
 !/cv/gerald_moore_cv.pdf
+
+# Env
+.env
