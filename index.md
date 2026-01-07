@@ -4,9 +4,9 @@ layout: default
 
 ## Profile
 
-As a highly analytical, computational, and motivated Data Scientist (DS) and Machine Learning (ML) Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in areas including computer vision, registration, segmentation, time-series analysis, working with large multi-terabyte datasets, statistical data analysis and pipeline-scaling from research to production environments.
+As a highly analytical, computational, and motivated Data Scientist (DS) and Machine Learning (ML) Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in areas including computer vision, registration, segmentation, time-series analysis, agentic AI, working with large multi-terabyte datasets, statistical data analysis and pipeline-scaling from research to production environments.
 
-I am passionate about exploring innovative ideas and expanding my knowledge in an environment that encourages learning and discovery. I strongly value the entire scope of Data Science, from exploratory data analysis and visualisation to experimentation and scaling pipelines. I am looking for an opportunity to apply my skills and knowledge to solve complex problems and contribute to the development of cutting-edge and impactful technologies.
+I am passionate about exploring innovative ideas and expanding my knowledge in an environment that encourages learning and discovery. I am looking for an opportunity to apply my skills and knowledge to solve complex problems and contribute to the development of cutting-edge and impactful technologies.
 
 ## Experience
 
@@ -16,12 +16,12 @@ _Dec 2022 - present_
 
 - Senior technical lead for DS, ML engineering and software engineering using remote sensing for verification in a soil carbon program.
 - Led technical development across numerous projects: agricultural land detection (FracTAL ResUNet), crop detection and analysis (Mask R-CNN), time-series event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene classification (2D CNN, MobileNet, EfficientNet), global-scale event mapping (LSTM, Transformers), image reports (VLM), causal ML analysis (Causal Forest) and agentic workflows (Pydantic AI, LangChain/Graph, FastMCP).
+- Solo development of a model to distill embeddings from a geospatial foundational image model to improve, optimise and standardise internal ML pipelines.
 - Developed image report generation with multi-task classification for field event verification (fine-tuning PaliGemma, LLaVA, Gemma 3) and ground truth data collection using multi-task classifiers on Google Street View imagery.
 - Built user-facing agentic AI chatbot leveraging custom MCPs for data-driven insights.
 - Scaled research-to-production pipelines using Ray, FastAPI, AnyScale, VertexAI, Airflow and Kubernetes, managing KPIs for accuracy, throughput, resource utilisation and stakeholder satisfaction.
 - Recognised by CEO and senior leadership for driving value and delivering results with significant contribution to company direction.
 - Led project planning and team coordination to meet KPI deliverables whilst advancing state-of-the-art research and tooling adoption.
-- Drove ML project standardisation through cookie-cutter, Kedro and HuggingFace frameworks and established comprehensive testing frameworks across code-bases.
 - Developed Python SDK and data ingestion service for STAC catalogues and API access, driving efficiency across DS and Engineering teams.
 - Implemented PCA and manifold-learning for data drift detection and K-fold cross-validation for dataset split optimisation.
 - Addressed dataset limitations through ensemble learning, auxiliary task learning and transfer learning.
@@ -80,7 +80,7 @@ _Software_ \| AnyScale, Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fi
 
 _2025_
 
-**Longitudinal testing of exploratory behaviour in mice reveals stable cognitive traits across the adult lifespan** \| Rushdie Abuhamdah, Gerald Moore, Deyl Djama, Florian Zirpel, Chris Edge, Abdel Ennaceur, Paul Chazot, Diana Cash, Eugene Kim, Anthony Vernon, Paul Chadderton, Stephen Brickley. Aging Cell (In Production).
+**Longitudinal testing of exploratory behaviour in mice reveals stable cognitive traits across the adult lifespan** \| Rushdie Abuhamdah, Gerald Moore, Deyl Djama, Florian Zirpel, Chris Edge, Abdel Ennaceur, Paul Chazot, Diana Cash, Eugene Kim, Anthony Vernon, Paul Chadderton, Stephen Brickley. Aging Cell. [10.1111/acel.70287](https://onlinelibrary.wiley.com/doi/10.1111/acel.70287).
 
 _2025_
 
