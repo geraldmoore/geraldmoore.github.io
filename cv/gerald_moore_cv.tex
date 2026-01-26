@@ -1,0 +1,252 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Wilson Resume/CV
+% XeLaTeX Template
+% Version 1.0 (22/1/2015)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Howard Wilson (https://github.com/watsonbox/cv_template_2004) with
+% extensive modifications by Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+
+
+\documentclass[9pt]{extarticle} % Default font size
+            
+\usepackage{graphicx}
+\graphicspath{{./images/}}
+
+\usepackage[none]{hyphenat}
+\usepackage{multicol}
+\input{structure.tex} % Include the file specifying document layout
+
+
+\begin{document}
+
+
+%	NAME AND CONTACT INFORMATION
+
+
+\title{\textbf{Dr. Gerald Laura-Moore} \\
+\\
+\normalsize{Doctorate in Neurotechnology | Data Scientist | Machine Learning Engineer | Developer | Researcher}
+} % Print the main header
+
+\begin{multicols}{2}
+
+\contact
+{{\includegraphics[scale=0.14]{images/email-icon.png}}}
+{\href{mailto:gerald.moore.mail@gmail.com}{gerald.moore.mail@gmail.com}}
+
+\contact
+{{\includegraphics[scale=0.14]{images/phone-icon.png}}}
+{(+45) 53 79 12 40}
+
+\contact
+{{\includegraphics[scale=0.14]{images/linkedin-icon.png}}}
+{\href{https://linkedin.com/in/gerald-moore}{linkedin.com/in/gerald-moore}}
+
+\contact
+{{\includegraphics[scale=0.2]{images/personal-icon.png}}}
+{\href{https://geraldmoore.github.io}{Personal website}}
+
+\contact
+{{\includegraphics[scale=0.2]{images/github-mark.png}}}
+{\href{https://github.com/geraldmoore}{github.com/geraldmoore}}
+
+\contact
+{{\includegraphics[scale=0.2]{images/github-mark.png}}}
+{\href{https://github.com/gm515}{github.com/gm515 [academic]}}
+
+\end{multicols}
+
+
+%	PERSONAL PROFILE
+
+
+\section{Profile}
+
+As a highly analytical, computational, and motivated Data Scientist (DS) and Machine Learning (ML) Researcher, I have gained valuable knowledge from diverse fields such as Geospatial Remote Sensing, Neurotechnology, Physics, and Astrophysics. I have extensive experience in areas including computer vision, registration, segmentation, time-series analysis, agentic AI, working with large multi-terabyte datasets, statistical data analysis and pipeline-scaling from research to production environments.
+\\\\
+I am passionate about exploring innovative ideas and expanding my knowledge in an environment that encourages learning and discovery. I am looking for an opportunity to apply my skills and knowledge to solve complex problems and contribute to the development of cutting-edge and impactful technologies.
+
+%	EMPLOYMENT HISTORY SECTION
+
+
+\section{Experience}
+
+\jobentry{Dec 2022}{present}{Agreena, Copenhagen, DK}{https://agreena.com/}{Senior Machine Learning Engineer}
+\begin{itemize}
+    \itemsep -0.4em
+    \item Senior technical lead for DS, ML engineering and software engineering using remote sensing for verification in a soil carbon program.
+    \item Led technical development across numerous projects: agricultural land detection (FracTAL ResUNet), crop detection and analysis (Mask R-CNN), time-series event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene classification (2D CNN, MobileNet, EfficientNet), global-scale event mapping (LSTM, Transformers), image reports (VLM), causal ML analysis (Causal Forest) and agentic workflows (Pydantic AI, LangChain/Graph, FastMCP).
+    \item Solo development of a model to distill embeddings from a geospatial foundational image model to improve, optimise and standardise internal ML pipelines.
+    \item Developed image report generation with multi-task classification for field event verification (fine-tuning PaliGemma, LLaVA, Gemma 3) and ground truth data collection using multi-task classifiers on Google Street View imagery.
+    \item Built user-facing agentic AI chatbot leveraging custom MCPs for unique data-driven insights.
+    \item Scaled research-to-production pipelines using Ray, FastAPI, AnyScale, VertexAI, Airflow and Kubernetes, managing KPIs for accuracy, throughput, resource utilisation and stakeholder satisfaction.
+    \item Recognised by CEO and senior leadership for driving value and delivering results with significant contribution to company direction.
+    \item Led project planning and team coordination to meet KPI deliverables whilst advancing state-of-the-art research and tooling adoption.
+    \item Developed Python SDK and data ingestion service for STAC catalogues and API access, driving efficiency across DS and Engineering teams.
+    \item Implemented PCA and manifold-learning for data drift detection and K-fold cross-validation for dataset split optimisation.
+    \item Addressed dataset limitations through ensemble learning, auxiliary task learning and transfer learning.
+    \item Authored publications, presented at conferences and delivered technical presentations to stakeholders and prospects.
+    \item Led hiring and served as go-to-trustee within the team to help address complex challenges.
+\end{itemize}
+
+\jobentry{Jan 2021}{Dec 2022}{Hummingbird Technologies, London, UK}{https://hummingbirdtech.com/}{Data Scientist}
+\begin{itemize}
+    \itemsep -0.4em
+    \item Nurturing key client partnerships by researching and developing new customer driven solutions, such as an instance segmentation approach for high resolution object detection in agricultural fields, and an attention based semantic segmentation model for delineating agricultural parcels at large scale.
+    \item Conducting grant funded research and creating comprehensive documentation for research award programs and conference presentations.
+    \item Technical interviewing for new candidates.
+\end{itemize}
+
+\jobentry{Oct 2016}{Jan 2021}{Imperial College London, London, UK}{https://www.imperial.ac.uk/}{Ph.D Neurotechnology}
+\begin{itemize}
+    \itemsep -0.4em
+    \item Sole ownership of developing an end-to-end analysis pipeline of multi-terabyte image data, including CNN classification through custom or adapted architectures (VGG Net, Google Inception), semantic segmentation (UNet, UNet++), image registration (Elastix, aMAP, ANTs) and dashboard visualisations (Ploty, Dash, Heroki).
+    \item Applied the pipeline to investigate neuronal connectivity in the visual thalamic and pre-frontal cortex pathways, as well as studying structural changes under Alzheimer's and Huntington's pathology.
+    \item Presenting research through publications, conferences, and workshops.
+\end{itemize}
+
+
+%	PROJECTS SECTION
+
+
+\section{Projects}
+
+\projectentry{https://github.com/geraldmoore/binocular}{BinOcular}
+\begin{itemize}
+    \itemsep -0.4em
+    \item Self driven development of a Python package that clusters camera photographs based on feature similarity and temporal thresholding.
+    \item Uses a pre-trained EfficientNet model to compress imagery into a latent feature space, and subsequently uses a cosine-similarity metric and temporal thresholding to group images into \textit{similar} clusters based on shared features within images.
+\end{itemize}
+
+\projectentry{}{Kern}
+\begin{itemize}
+    \itemsep -0.4em
+    \item A custom personal assitant using the Pydantic AI agentic framework. 
+    \item Uses custom function tools to add functionality such as natural-language text to SQL for database querying, English/Italian tutoring, and general purpose AI chatbot.
+\end{itemize}
+
+
+%	EDUCATION SECTION
+
+
+\section{Education}
+
+\tabbedblock{
+\it{2015 - 2016} \> MRes Neurotechnology |  \href{https://www.imperial.ac.uk/}{Imperial College London, UK}
+}
+
+\tabbedblock{
+\it{2011 - 2015} \> MPhys in Physics and Astrophysics |  \href{https://www.sussex.ac.uk/}{University of Sussex, UK}
+}
+
+\tabbedblock{
+\it{2009 - 2011} \> A-levels including Mathematics, Physics and Computing | \href{https://www.furzeplatt.com/}{Furze Platt Sixth Form College, UK}
+}
+
+\tabbedblock{
+\it{2007 - 2009} \> Thirteen GCSEs including Mathematics, Physics and Biology | \href{https://www.furzeplatt.com/}{Furze Platt Senior School, UK}
+}
+
+
+%	IT/COMPUTING SKILLS SECTION
+
+
+\section{Technical Skills}
+
+\tabbedblock{
+\it{Languages} \> Python, C++, JAVA, MATLAB, Rust
+}
+
+\tabbedblock{
+\it{Libraries} \> PyTorch, Tensorflow, Keras, Ray, Scikit-learn, Scipy, OpenCV, Pydantic, Pydantic AI, LangChain/Graph, Pytest
+}
+
+\tabbedblock{
+\it{Databases} \> STAC, MySQL, PostgreSQL
+}
+
+\tabbedblock{
+\it{Software} \> AnyScale, Docker, Git, CircleCI, Poetry, GCP, Vertex AI, ImageJ/Fiji, Blender, Adobe Suite
+}
+
+
+%	PUBLICATIONS SECTION
+
+
+\section{Publications}
+
+\publicationone
+{2025}
+{Longitudinal testing of exploratory behaviour in mice reveals stable cognitive traits across the adult lifespan}
+{Rushdie Abuhamdah, Gerald Moore, Deyl Djama, Florian Zirpel, Chris Edge, Abdel Ennaceur, Paul Chazot, Diana Cash, Eugene Kim, Anthony Vernon, Paul Chadderton, Stephen Brickley. Aging Cell. \href{https://onlinelibrary.wiley.com/doi/10.1111/acel.70287}{10.1111/acel.70287}.}
+
+\publicationone
+{2025}
+{Hierarchical Bayesian modeling of multi-region brain cell count data}
+{Sydney Dimmock, Benjamin MS Exley, Gerald Moore, Lucy Menage, Alessio Delogu, Simon R Schultz, E Clea Warburton, Conor Houghton, Cian O'Donnell. eLife Neuroscience. \href{https://doi.org/10.7554/eLife.102391.1}{10.7554/eLife.102391.2}.}
+
+\publicationone
+{2024}
+{Detecting cover crop activity at scale using fusion of multiple satellite sources}
+{Gerald Moore, Edward Dowling, Gabor Szakacs, Daniel Szponar. Remote Sensing [to be submitted].}
+
+\publicationone
+{2024}
+{Tracking tillage practices across Europe using multi-source Earth observations \& machine learning}
+{Nicholas Synes, Aoife Whelan, Edward Dowling, Francois Lemarchand, Khushboo Jain, Ben Smith, Gerald Moore, Peter Kongstad, Blayne Lees, Vincent Cornwell, Nathan Torbick. IEEE IGARSS.}
+
+\publicationtwo
+{2024}
+{The type of inhibition provided by thalamic interneurons alters the input selectivity of thalamocortical}
+{neurons}
+{Stephen Brickley, Deyl Djama, Florian Zirpel, Zhiwen Ye, Gerald Moore, Charmaine Chue, Christopher Edge, Polona Jager, Alessio Delogu. bioRxiv. \href{https://doi.org/10.1016/j.crneur.2024.100130}{10.1016/j.crneur.2024.100130}}
+
+\publicationone
+{2021}
+{Dual midbrain and forebrain origins of thalamic inhibitory interneurons}
+{Polona Jager, Gerald Moore, Padraic Calpin, Xhuljana Durmishi, Yoshiaki Kita, Irene Salgarella, Yan Wang, Simon R. Schultz, Stephen Brickley, Tomomi Shimogori, Alessio Delogu. Elife. \href{https://doi.org/10.7554/eLife.59272}{10.7554/eLife.59272}.}
+
+\publicationone
+{2020}
+{Cell counting in targeted nuclei of whole brain two-photon image data}
+{Gerald Moore, Polona Jager, Alessio Delogu, Simon Schultz, Stephen Brickley. Biophotonics Congress: Biomedical Optics Congress 2018 (Microscopy/Translational/Brain/OTS), OSA Technical Digest (Optical Society of America, 2018). \href{https://doi.org/10.1364/TRANSLATIONAL.2018.JTu3A.48}{10.1364/TRANSLATIONAL.2018.JTu3A.48}.}
+
+
+%	CONFERENCES SECTION
+
+
+\section{Conferences \& Workshops}
+
+\conference
+{2022}
+{Living Planet Symposium}
+{Exhibited a FracTAL ResUNet model for agricultural field boundary detection, and presented a solution for counting and sizing crop in drone imagery using a Mask R-CNN architecture.}
+
+\conference
+{2019}
+{British Neuroscience Association}
+{Presented an automated U-Net based cell distribution analysis method for cell counting across whole mouse brain microscopy data, in addition to research on a longitudinal study of cognitive decline in female mice and its association with healthy brain ageing.}
+
+\conference
+{2019}
+{London Neurotechnology Network Imaging Workshop}
+{Demonstrated research on high-resolution imaging technologies for mapping small-scale objects of interest across large tissue volumes, and the challenges of big data analytics.}
+
+\conference
+{2017 - 2018}
+{British Neuroscience Association, Dementia Symposium ICL, The Optical Society Annual Meeting}
+{Macroscopic imaging of neuronal connectivity related to health and disease, as well as meso- and micro-scale changes in brain pathology in response to Alzheimer's and Huntington's disease. Deep learning approach for cell counting in targeted nuclei of whole brain two-photon microscopy data.}
+
+\end{document}
