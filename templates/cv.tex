@@ -1,0 +1,114 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CV Template for Pandoc
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[9pt]{extarticle}
+
+\usepackage{graphicx}
+\graphicspath{{./assets/}}
+
+\usepackage[none]{hyphenat}
+\usepackage{multicol}
+\usepackage[a4paper, hmargin=10mm, vmargin=10mm, top=10mm]{geometry}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{enumitem}
+\usepackage{parskip}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+% Disable section numbering
+\setcounter{secnumdepth}{0}
+
+% Custom page style - no headers/footers
+\fancypagestyle{plain}{\fancyhf{}\cfoot{}}
+\pagestyle{plain}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% No paragraph indentation, consistent paragraph spacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+% Global list settings - consistent compact spacing
+\setlist{
+    noitemsep,
+    topsep=0pt,
+    partopsep=0pt,
+    parsep=0pt,
+    leftmargin=1.5em
+}
+
+% Pandoc's tightlist command
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Contact command for header
+\newcommand{\contact}[2]{
+\begin{tabbing}
+\hspace{0.45cm} \= \kill
+\textit{#1} \> #2
+\end{tabbing}
+}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% HEADER
+%----------------------------------------------------------------------------------------
+
+{\huge{\textbf{Dr. Gerald Laura-Moore}}}\\
+\\
+\normalsize{Doctorate in Neurotechnology | Data Scientist | Machine Learning Engineer | Developer | Researcher}
+
+%----------------------------------------------------------------------------------------
+% CONTACT INFO
+%----------------------------------------------------------------------------------------
+
+\begin{multicols}{2}
+
+$if(cv_contact.email)$
+\contact
+{{\includegraphics[scale=0.14]{email-icon.png}}}
+{\href{mailto:$cv_contact.email$}{$cv_contact.email$}}
+$endif$
+
+$if(cv_contact.phone)$
+\contact
+{{\includegraphics[scale=0.14]{phone-icon.png}}}
+{$cv_contact.phone$}
+$endif$
+
+$if(cv_contact.linkedin)$
+\contact
+{{\includegraphics[scale=0.14]{linkedin-icon.png}}}
+{\href{$cv_contact.linkedin$}{linkedin.com/in/gerald-moore}}
+$endif$
+
+$if(cv_contact.website)$
+\contact
+{{\includegraphics[scale=0.2]{personal-icon.png}}}
+{\href{$cv_contact.website$}{Personal website}}
+$endif$
+
+$for(cv_contact.github)$
+\contact
+{{\includegraphics[scale=0.2]{github-mark.png}}}
+{\href{$it.url$}{$it.label$}}
+$endfor$
+
+\end{multicols}
+
+%----------------------------------------------------------------------------------------
+% MAIN CONTENT
+%----------------------------------------------------------------------------------------
+
+$body$
+
+\end{document}

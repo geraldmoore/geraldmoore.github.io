@@ -1,6 +1,19 @@
-# Latex files
-cv/*
-!/cv/gerald_moore_cv.pdf
+# LaTeX build artifacts
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
 
-# Env
+# Keep the PDF
+!cv/gerald_moore_cv.pdf
+
+# Environment
 .env
+
+# macOS
+.DS_Store
+
+# Temp
+.tmp/
