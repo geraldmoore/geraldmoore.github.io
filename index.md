@@ -22,12 +22,14 @@ _Dec 2022 - present_
 
 **Senior Machine Learning Engineer** \| **_[Agreena, Copenhagen, DK](https://agreena.com/)_**
 
-- Senior technical lead for ML engineering and Data Science, scaling remote sensing models from research to production.
-- Led development across numerous agricultural ML projects: land detection (FracTAL ResUNet), crop health analysis (Mask R-CNN), time-series event detection (LSTM, Transformers, CatBoost), and agricultural event classification (EfficientNet).
-- Solo initiative and development of a geospatial foundation embedding distillation model to optimise and standardise internal ML pipelines.
+- Senior technical lead for ML engineering and Data Science, creating and scaling remote sensing models from research to production.
+- Led development across several agricultural ML projects: land parcel detection (FracTAL ResUNet), crop sizing and health analysis (Mask R-CNN), and agicultural management detection from time-series (LSTM, Transformers, CatBoost) and images (EfficientNet).
+- Solo initiative and development of a geospatial foundation embedding distillation model to optimise and standardise ML pipelines.
+- Led and developed agentic AI ecosystems including user-facing chatbot with custom MCPs and tooling, and a VLM-based (PaliGemma) image report generation system fine-tuned on proprietary data.
+- Led and developed automated data scraping and labelling systems leveraging Google Street View imagery.
 - Built production pipelines using Ray, FastAPI, AnyScale and Airflow, driven by KPIs for accuracy, throughput and resource utilisation.
-- Led and developed agentic AI systems including user-facing chatbot with custom MCPs and a VLM-based image report generation system.
 - Developed Python SDK and data ingestion service for STAC catalogues and API access, driving efficiency across Data and Engineering teams.
+- Addressed ground truth data constraints through PCA, manifold learning, K-fold cross-validation, auxillary learning, transfer learning and ensemble modelling architectures.
 - Recognised by CEO and senior leadership for driving value and delivering results with significant contribution to company direction.
 - Authored publications, presented at conferences and delivered technical presentations to stakeholders and customer prospects.
 - Led hiring and served as go-to-trustee within the team to help address complex challenges.
