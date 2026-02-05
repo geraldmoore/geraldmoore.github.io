@@ -1,4 +1,4 @@
-# Gerald Moore - Personal Website & CV
+# Gerald Laura-Moore - Personal Website & CV
 
 Personal website and CV hosted on GitHub Pages.
 
