@@ -23,7 +23,7 @@ _Dec 2022 - present_
 **Senior Machine Learning Engineer** \| **_[Agreena, Copenhagen, DK](https://agreena.com/)_**
 
 - Senior technical lead for ML engineering and Data Science, creating and scaling remote sensing models from research to production.
-- Led development across several agricultural ML projects: land parcel detection (FracTAL ResUNet), crop sizing and health analysis (Mask R-CNN), and agicultural management detection from time-series (LSTM, Transformers, CatBoost) and images (EfficientNet).
+- Led development across several agricultural ML projects: land parcel detection (FracTAL ResUNet), crop sizing and health analysis (Mask R-CNN), and agricultural management detection from time-series (LSTM, Transformers, CatBoost) and images (EfficientNet).
 - Solo initiative and development of a geospatial foundation embedding distillation model to optimise and standardise ML pipelines.
 - Led and developed agentic AI ecosystems including user-facing chatbot with custom MCPs and tooling, and a VLM-based (PaliGemma) image report generation system fine-tuned on proprietary data.
 - Led and developed automated data scraping and labelling systems leveraging Google Street View imagery.
