@@ -28,6 +28,7 @@ _Dec 2022 - present_
 - Led and developed agentic AI ecosystems including user-facing chatbot with custom MCPs and tooling, and a VLM-based (PaliGemma) image report generation system fine-tuned on proprietary data.
 - Led and developed automated data scraping and labelling systems leveraging Google Street View imagery.
 - Built production pipelines using Ray, FastAPI, AnyScale and Airflow, driven by KPIs for accuracy, throughput and resource utilisation.
+- Assembled Data Science Chapter meetings to align team standards and share knowledge across multiple active workstreams.
 - Developed Python SDK and data ingestion service for STAC catalogues and API access, driving efficiency across Data and Engineering teams.
 - Addressed ground truth data constraints through PCA, manifold learning, K-fold cross-validation, auxillary learning, transfer learning and ensemble modelling architectures.
 - Recognised by CEO and senior leadership for driving value and delivering results with significant contribution to company direction.
@@ -87,19 +88,13 @@ _2025_
 
 **Longitudinal testing of exploratory behaviour in mice reveals stable cognitive traits across the adult lifespan** \| Rushdie Abuhamdah, Gerald Moore, Deyl Djama, Florian Zirpel, Chris Edge, Abdel Ennaceur, Paul Chazot, Diana Cash, Eugene Kim, Anthony Vernon, Paul Chadderton, Stephen Brickley. Aging Cell. [10.1111/acel.70287](https://onlinelibrary.wiley.com/doi/10.1111/acel.70287).
 
-_2025_
-
 **Hierarchical Bayesian modeling of multi-region brain cell count data** \| Sydney Dimmock, Benjamin MS Exley, Gerald Moore, Lucy Menage, Alessio Delogu, Simon R Schultz, E Clea Warburton, Conor Houghton, Cian O'Donnell. eLife Neuroscience. [10.7554/eLife.102391.1](https://doi.org/10.7554/eLife.102391.2).
 
 _2024_
 
 **Detecting cover crop activity at scale using fusion of multiple satellite sources** \| Gerald Moore, Edward Dowling, Gabor Szakacs, Daniel Szponar. Remote Sensing [to be submitted].
 
-_2024_
-
 **Tracking tillage practices across Europe using multi-source Earth observations & machine learning** \| Nicholas Synes, Aoife Whelan, Edward Dowling, Francois Lemarchand, Khushboo Jain, Ben Smith, Gerald Moore, Peter Kongstad, Blayne Lees, Vincent Cornwell, Nathan Torbick. IEEE IGARSS.
-
-_2024_
 
 **The type of inhibition provided by thalamic interneurons alters the input selectivity of thalamocortical neurons** \| Stephen Brickley, Deyl Djama, Florian Zirpel, Zhiwen Ye, Gerald Moore, Charmaine Chue, Christopher Edge, Polona Jager, Alessio Delogu. bioRxiv. [10.1016/j.crneur.2024.100130](https://doi.org/10.1016/j.crneur.2024.100130).
 
