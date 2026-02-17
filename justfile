@@ -5,7 +5,8 @@ output := "cv/gerald_moore_cv.pdf"
 tmp_dir := ".tmp"
 
 # Default PDF recipe
-default: pdf
+default: 
+    just --list
 
 # Build PDF
 pdf:
@@ -35,10 +36,3 @@ check-deps:
     command -v pandoc >/dev/null 2>&1 || { echo "Error: pandoc is required. Install with: brew install pandoc"; exit 1; }
     command -v xelatex >/dev/null 2>&1 || { echo "Error: xelatex is required. Install with: brew install --cask mactex"; exit 1; }
     echo "All dependencies found."
-
-# Show help
-help:
-    @echo "Usage:"
-    @echo "  just pdf        - Generate CV PDF from index.md"
-    @echo "  just clean      - Remove temporary files"
-    @echo "  just check-deps - Verify pandoc and xelatex are installed"
