@@ -39,28 +39,28 @@ _Jan 2021 - Dec 2022_
 
 **Data Scientist** \| _**[Hummingbird Technologies, London, UK](https://hummingbirdtech.com/)**_
 
-- Nutured key client partnerships by researching and developing new customer driven solutions, including instance segmentation approach for high resolution object detection in agricultural fields, and an attention based semantic segmentation model for delineating agricultural parcels at scale.
+- Nurtured key client partnerships by researching and developing new customer driven solutions, including instance segmentation approach for high resolution object detection in agricultural fields, and an attention based semantic segmentation model for delineating agricultural parcels at scale.
 - Led grant-funded research with documentation for research awards and conference presentations.
 
 _Oct 2016 - Jan 2021_
 
 **Ph.D Neurotechnology** \| _**[Imperial College London, London, UK](https://www.imperial.ac.uk/)**_
 
-- Sole ownership and development of an end-to-end analysis pipeline for multi-terabyte image data, including CNN classification through custom or adapted architectures (VGG Net, Google Inception), semantic segmentation (UNet, UNet++), image registration (Elastix, aMAP, ANTs) and dashboard visualisations (Plotly, Dash, Heroku).
-- Applied pipeline to investigate neuronal connectivity and structural changes under Alzheimer's and Huntington's pathology.
+- Sole ownership and development of an end-to-end neurone analysis pipeline for multi-terabyte two-photon microscopy data, including CNN classification through custom or adapted architectures (VGG Net, Google Inception), semantic segmentation (UNet, UNet++), image registration (Elastix, aMAP, ANTs) and dashboard visualisations (Plotly, Dash, Heroku).
+- Applied the pipeline to investigate neuronal connectivity in the visual thalamic and pre-frontal cortex systems, as well as studying structural changes under Alzheimer's and Huntington's pathology.
 - Presented research through publications, conferences, and workshops.
 
 ## Projects
+
+[**TinyEarth**](https://github.com/geraldmoore/tinyearth)
+
+- A lightweight distilled model adaptation to recreate Google's AlphaEarth embeddings.
+- Dual-stream encoder fusing Sentinel-1 & 2 with a temporal attention mechanism, leveraging von Mises-Fisher loss for embedding reconstruction.
 
 [**BinOcular**](https://github.com/geraldmoore/binocular)
 
 - Self driven development of a Python package that clusters camera photographs based on feature similarity and temporal thresholding.
 - Uses a pre-trained EfficientNet model to compress imagery into a latent feature space, and subsequently uses a cosine-similarity metric and temporal thresholding to group images into _similar_ clusters based on shared features within images.
-
-**Kern**
-
-- A custom personal assistant using the Pydantic AI agentic framework.
-- Uses custom function tools to add functionality such as natural-language text to SQL for database querying, English/Italian tutoring, and general purpose AI chatbot.
 
 ## Education
 
