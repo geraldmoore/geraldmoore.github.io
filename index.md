@@ -22,18 +22,19 @@ _Dec 2022 - present_
 
 **Senior Machine Learning Engineer** \| **_[Agreena, Copenhagen, DK](https://agreena.com/)_**
 
-- Senior technical lead for ML engineering and Data Science, creating and scaling remote sensing models from research to production.
-- Led development across several agricultural ML projects: land parcel detection (FracTAL ResUNet), crop sizing and health analysis (Mask R-CNN), and agricultural management detection from time-series (LSTM, Transformers, CatBoost) and images (EfficientNet).
-- Solo initiative and development of a geospatial foundation embedding distillation model to optimise and standardise ML pipelines.
-- Led, developed, and served, agentic AI ecosystems including user-facing chatbot with custom MCPs and tooling, and a VLM-based (PaliGemma) image report generation system fine-tuned on proprietary data.
-- Led and developed large-scale automated data scraping and labelling leveraging Google Street View imagery and finetuned ML models.
-- Scaled research projects into production pipelines leveraging Ray, FastAPI, AnyScale and Airflow, driven by KPIs for accuracy, throughput and resource utilisation.
-- Assembled Data Science Chapter meetings to align team standards and share domain knowledge across multiple active workstreams.
-- Created a Python SDK and data ingestion service for STAC catalogues and API access, driving efficiency across Data and Engineering teams.
-- Addressed ground truth data constraints through PCA, manifold learning, K-fold cross-validation, auxillary learning, transfer learning, and ensemble modelling architectures.
+- Senior technical lead for DS, ML engineering and software engineering using remote sensing for verification in a soil carbon program.
+- Led technical development across numerous projects: agricultural land detection (FracTAL ResUNet), crop detection and analysis (Mask R-CNN), time-series event detection and prediction (1D CNN, LSTM, CatBoost, XGBoost, Transformers), satellite scene classification (2D CNN, MobileNet, EfficientNet), global-scale event mapping (LSTM, Transformers), image report generation (VLM), heterogeneous treatment effects through causal ML analysis (Causal Forest) and agentic workflows (Pydantic AI, LangChain, LangGraph, FastMCP).
+- Solo development of a model to distill embeddings from a geospatial foundational image model to improve, optimise and standardise internal ML pipelines.
+- Developed image report generation with multi-task classification for field event verification (fine-tuning PaliGemma, LLaVA, Gemma 3) and ground truth data collection using multi-task classifiers on Google Street View imagery.
+- Built user-facing agentic AI chatbot leveraging custom MCPs for unique data-driven insights.
+- Scaled research-to-production pipelines using Ray, FastAPI, AnyScale, VertexAI, Airflow and Kubernetes, managing KPIs for accuracy, throughput, resource utilisation and stakeholder satisfaction.
 - Recognised by CEO and senior leadership for driving value and delivering results with significant contribution to company direction.
-- Authored publications, presented at conferences and delivered technical presentations to stakeholders and customer prospects.
-- Responsible for hiring and served as go-to-trustee within the team to help address complex challenges.
+- Led project planning and team coordination to meet KPI deliverables whilst advancing state-of-the-art research and tooling adoption.
+- Developed Python SDK and data ingestion service for STAC catalogues and API access, driving efficiency across DS and Engineering teams.
+- Implemented PCA and manifold-learning for data drift detection and K-fold cross-validation for dataset split optimisation.
+- Addressed dataset limitations through ensemble learning, auxiliary task learning and transfer learning.
+- Authored publications, presented at conferences and delivered technical presentations to stakeholders and prospects.
+- Led hiring and served as go-to-trustee within the team to help address complex challenges.
 
 _Jan 2021 - Dec 2022_
 
