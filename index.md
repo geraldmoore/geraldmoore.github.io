@@ -55,7 +55,7 @@ _Oct 2016 - Jan 2021_
 
 [**TinyEarth**](https://github.com/geraldmoore/tinyearth)
 
-- A lightweight distilled model adaptation to recreate Google's AlphaEarth embeddings.
+- A lightweight distilled model adaptation to recreate Google's AlphaEarth embeddings (see [report](https://www.notion.so/AlphaEarth-Distillation-31331565029380d78fbbf0070e13b9c6)).
 - Dual-stream encoder fusing Sentinel-1 & 2 with a temporal attention mechanism, leveraging von Mises-Fisher loss for embedding reconstruction.
 
 [**BinOcular**](https://github.com/geraldmoore/binocular)
